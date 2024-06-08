@@ -1,0 +1,5 @@
+*.exe
+*tempCodeRunnerFile.cpp
+# Recursion/tempCodeRunnerFile.cpp
+*delete.cpp
+.vscode/settings.json
